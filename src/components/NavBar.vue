@@ -10,7 +10,7 @@
       <a href="#how-it-works">Ako to funguje</a>
       <a href="#services">Služby</a>
     </div>
-    <a href="#wishlist" class="btn btn-primary">Pridajt sa k nám</a>
+    <a href="#wishlist" class="btn btn-primary">Pridajte sa k nám</a>
   </nav>
 </template>
 
