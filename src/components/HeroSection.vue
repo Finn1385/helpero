@@ -8,7 +8,7 @@
       Pomáhame nájsť alebo ponúknuť flexibilné práce v okolí.
     </p>
     <div class="actions">
-      <a href="#wishlist" class="btn btn-primary">Pridajt sa k nám</a>
+      <a href="#wishlist" class="btn btn-primary">Pridajte sa k nám</a>
       <a href="#about" class="btn btn-secondary">Ďalšie informácie</a>
     </div>
   </section>
