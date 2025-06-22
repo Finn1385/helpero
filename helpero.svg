@@ -1,0 +1,27 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 89" width="448" height="89">
+    <title>helpero</title>
+    <defs>
+        <image width="96" height="96" id="img1"
+            href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iNDhweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSI0OHB4IiBmaWxsPSIjMDAwIj48cGF0aCBkPSJtNjE2LTI4MyA2Mi02MC0xNTQtMTU1LjIzVi02ODloLTgydjIyNC41Nkw2MTYtMjgzWk00ODAuMTQtNTVRMzkyLTU1IDMxNC42Mi04OC4zN3EtNzcuMzctMzMuMzYtMTM1LjExLTkxLjA2LTU3LjczLTU3LjctOTEuMTItMTM1LjAzUTU1LTM5MS43OCA1NS00NzkuODlxMC04OC4xMSAzMy41OC0xNjUuNiAzMy41OS03Ny40OCA5MS4wMi0xMzQuOTEgNTcuNDMtNTcuNDMgMTM0LjgyLTkxLjUyUTM5MS44MS05MDYgNDgwLTkwNnE4OC4xOSAwIDE2NS41OCAzNC4wOCA3Ny4zOSAzNC4wOSAxMzQuODIgOTEuNTIgNTcuNDMgNTcuNDMgOTEuNTIgMTM0LjgyUTkwNi01NjguMTkgOTA2LTQ4MHEwIDg4LjE5LTM0LjA4IDE2NS41OC0zNC4wOSA3Ny4zOS05MS41MiAxMzQuODItNTcuNDMgNTcuNDMtMTM0Ljc3IDkxLjAyUTU2OC4yOC01NSA0ODAuMTQtNTVaTTQ4MC00ODBabS0uNTEgMzMxUTYxNi0xNDkgNzEzLjUtMjQ1LjV0OTcuNS0yMzRRODExLTYxNyA3MTMuNjMtNzE0dC0yMzMuNjItOTdRMzQzLTgxMSAyNDYtNzE0LjEyIDE0OS02MTcuMjUgMTQ5LTQ4MHEwIDEzOCA5Ni45OSAyMzQuNXQyMzMuNSA5Ni41WiIvPjwvc3ZnPg==" />
+    </defs>
+    <style>
+        .s0 { fill: #000000 }
+    </style>
+    <g>
+        <path class="s0"
+            d="m104 40v31h9 9v-14.5c0-13.2 0.2-14.7 2-16.5 2.4-2.4 6.3-2.6 8.4-0.4 1.3 1.3 1.6 4.2 1.6 16.5v14.9h9.1 9.1l-0.4-17.3c-0.4-19.6-1.6-23.7-7.9-27-4.8-2.5-14.7-1.9-18.9 1.1l-3 2.3v-10.6-10.5h-9-9z" />
+        <path class="s0" d="m218 40v31h9 9v-31-31h-9-9z" />
+        <path class="s0"
+            d="m173.6 26.5c-8.5 3-13.3 9.4-14.3 18.9-1.1 10.7 3 19.6 11 23.8 5.8 3 20.4 3.7 27.4 1.4 7-2.3 12.3-8.4 12.3-14 0-2.6-0.1-2.6-8-2.6-7.6 0-8.1 0.1-9 2.4-2.6 7-16 5.3-16-2v-2.4h16.5 16.5v-5.3c-0.1-9.4-5.4-17.2-13.9-20.2-5.4-1.9-17.3-1.9-22.5 0zm16.2 11.1c1.2 0.8 2.2 2.4 2.2 3.5 0 1.7-0.7 1.9-7.5 1.9-8.4 0-9.6-1.2-4.9-4.9 3.2-2.5 7.1-2.7 10.2-0.5z" />
+        <path class="s0"
+            d="m268.5 26.3c-1.7 0.8-3.6 2.1-4.4 3-1.6 2-3.1 1.3-3.1-1.4 0-1.7-0.7-1.9-7.5-1.9h-7.5v31 31h9 9v-10-10l3.3 2c3.6 2.2 11.7 2.7 16.4 0.9 7.9-3 11.7-11.2 11.1-24.2-0.6-14.3-5.9-20.9-17.2-21.4-3.6-0.2-7.3 0.2-9.1 1zm6.2 12.5c1.7 1.1 3.3 5.8 3.3 9.7 0 3.9-1.6 8.6-3.3 9.7-2.5 1.6-7.6 0.8-9.1-1.4-2.4-3.5-2.2-14.2 0.4-16.8 2-2 6.5-2.6 8.7-1.2z" />
+        <use id="schedule_128dp_000_FILL0_wght700_GRAD0_opsz48" href="#img1"
+            transform="matrix(.922,0,0,.922,7,0)" />
+        <path class="s0"
+            d="m317 25.9c-11.1 3.4-16 10.6-16 23.4q0 21.1 23.7 22.5c13.7 0.7 22.8-2.9 25.9-10.4 2.9-6.9 2.4-7.4-6.9-7.4-8.2 0-8.3 0-9.4 2.9-1.2 3.3-5.3 4.7-10.4 3.6-2.3-0.5-3.5-1.6-4.5-4.1-0.8-1.8-1.4-3.6-1.4-3.9 0-0.3 7.7-0.5 17-0.5h17v-4.3c0-10.5-6.3-19.3-15.5-21.6-4.9-1.2-15.7-1.3-19.5-0.2zm15 12.1c3.9 3.9 2.7 5-5.5 5-5.3 0-7.5-0.4-7.5-1.3 0.1-5 9.1-7.6 13-3.7z" />
+        <path class="s0"
+            d="m379.4 26.9c-1.8 1.1-3.4 2.5-3.7 3.3-0.2 0.7-0.8 0.1-1.2-1.5-0.7-2.6-0.9-2.7-7.6-2.7h-6.9v22.5 22.5h8.4 8.4l0.4-13c0.4-15.4 0.8-16.2 9.6-17l5.7-0.5v-7.5-7.5l-5-0.3c-3.6-0.2-5.9 0.3-8.1 1.7z" />
+        <path class="s0"
+            d="m409.2 26.7c-16.7 5.9-19.1 32.3-3.9 41.7 4 2.4 6.2 3 12.7 3.4 13.2 0.8 21.5-3.1 26.1-12 2.6-5 2.7-15.6 0.4-21.6-2.1-5.1-8-10.4-13.4-12-5.3-1.6-16.7-1.4-21.9 0.5zm17.7 12.9c1.6 2.1 2.1 4.1 2.1 8.9 0 8.2-2.3 11.5-8.1 11.5-6 0-7.9-2.5-7.9-10.6 0-9.6 1.8-12.4 8.2-12.4 2.8 0 4.2 0.6 5.7 2.6z" />
+    </g>
+</svg>
